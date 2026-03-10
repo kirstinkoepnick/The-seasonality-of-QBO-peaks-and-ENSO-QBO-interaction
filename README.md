@@ -1,7 +1,9 @@
-# ENSO-QBO correlations: What sets the seasonality of QBO peaks?
-Data availability for "ENSO-QBO correlations: What sets the seasonality of QBO peaks?"
+# The seasonality of QBO peaks and ENSO-QBO interaction
+Data availability for "The seasonality of QBO peaks and ENSO-QBO interaction"
 
-## Description 
+## Abstract
+
+The quasi-biennial oscillation (QBO) and the El Niño Southern Oscillation (ENSO) are two dominate modes of tropical variability with global impacts that interact through changes in tropical convection and wave forcing. Yet their seasonal relationship remains incompletely understood. Whil ENSO is strongly phase-locked to the annual cycle, evidence for intrinsic seasonality in the QBO is less clear, partly due to the limited observational record. Here, we investigate the seasonality of QBO easterly (QBOE) and westerly (QBOW) wind maximum events using multiple reanalysis produces and the pre-industrial control simulations from CMIP6 high-top models. Reanalyses show no robsut seasonal preference in QBO peak timing, reflecting the short record-length limitations. In contrast, nearly all CMIP6 high-top models exhibit statistically significant seasonal clustering of QBO peak winds, though the phase and amplitude of this signal vary substantially across models. We demonstrate that inter-model differences in QBO seasonal lockings are strongly correlated with the seasonal amplitude of ENSO, particularly between QBOE and La Niña seasonality ($R^2 = 0.81$) and between two QBO events and ENSO events seasonal variance ($R^2 = 0.64$). Models with stronger ENSO phase locking also tend to exhibit stronger QBO seasonality with the strongest relationship  between QBOW and El Niño. However, seasonal variations in Eliassen-Palm fluxes do not explain the spread in QBO seasonality across models, suggesting that parameterized wave processes or indirect dynamical pathways may be involved. Our results indicate that QBO seasonality in climate models emerges as a coupled property of ENSO-QBO interactions, highlighting the importance of accurately representing ENSO seasonal locking for simulating stratospheric variability and its surface impacts.
 
 ## Getting Started
 
