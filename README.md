@@ -1,5 +1,5 @@
 # The seasonality of QBO peaks and ENSO-QBO interaction
-Data availability for "The seasonality of QBO peaks and ENSO-QBO interaction"
+Data availability for "The seasonality of QBO peaks and ENSO-QBO interaction", Koepnick et al. submitted to AGU GRL.
 
 ## Abstract
 
